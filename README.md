@@ -19,4 +19,4 @@ Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Pr
 
 Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Watze85/TWSSIO_V1.0_840C/blob/main/Bilder/1.png)
