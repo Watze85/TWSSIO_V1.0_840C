@@ -6,7 +6,7 @@ Die Platine hat 64 Eingänge die von den Tastern und Potis verwendet werden,
 
 und 64 Ausgänge, wovon 48 für die LEDs des Panels verwendet werden,
 
-die verbleibenden 16 Ausgänge sind über Schraubklemmen nach Außen geführt, und können frei verwendet werden
+die übrigen 16 Ausgänge sind über Schraubklemmen nach Außen geführt, und können frei verwendet werden
 
 des Weiteren sind 2 Analog Eingänge und 1 Encoder Eingang verbaut.
 
