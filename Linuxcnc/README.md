@@ -5,4 +5,4 @@ Linuxcnc Component
 
 
 Die beiden Dateien müssen ins verzeichnis /usr/lib/linuxcnc/modules/  kopiert verden.
-Den über ein Therminal die Dateiverwaltung öffnen  (sudo Thunar) oder (sudo caja)
+Über ein Terminal die Dateiverwaltung öffnen  (sudo Thunar) oder (sudo caja)
