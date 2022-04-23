@@ -19,4 +19,4 @@ Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Pr
 
 Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
 
-!(/bilder/1.png)
+![(/bilder/1.png)]
