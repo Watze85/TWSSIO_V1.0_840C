@@ -12,3 +12,4 @@ des Weiteren sind 2 Analog Eingänge und 1 Encoder Eingang verbaut.
 
 
 Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Programmiergerät beschreiben.
+Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
