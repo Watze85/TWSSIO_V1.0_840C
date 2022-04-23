@@ -9,3 +9,6 @@ die verbleibenden 16 Ausgänge sind über Schraubklemmen nach Außen geführt, u
 des Weiteren sind 2 Analog Eingänge und 1 Encoder Eingang verbaut.
 
 Über 2 Flachband Kabel wird die Platine mit dem Siemens Panel verbunden (Pfostenbuchse, 64-polig)
+
+
+Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Programmiergerät beschreiben.
