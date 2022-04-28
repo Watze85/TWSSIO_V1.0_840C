@@ -12,8 +12,10 @@ Des weiteren sind 2 Analog Eingänge und 1 Encoder Eingang verbaut.
 
 Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Programmiergerät beschreiben.  
 Da der DSPIC33FJ64GS606-I/PT nur schwer zu bekommen ist gibt es eine Alternative DSPIC33FJ64GS406-I/PT  
-allerdings 
-
+Firmware beachten!!  
+[DSPIC33FJ64GS606-I/PT](/Firmware/SmartSerial_IO_GS606.hex)  
+[DSPIC33FJ64GS406-I/PT](/Firmware/SmartSerial_IO_GS606.hex)  
+  
 Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
 
 ![This is an image](https://github.com/Watze85/TWSSIO_V1.0_840C/blob/main/Bilder/1.png)
