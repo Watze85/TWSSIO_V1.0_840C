@@ -10,7 +10,9 @@ Des weiteren sind 2 Analog Eingänge und 1 Encoder Eingang verbaut.
 
 
 
-Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Programmiergerät beschreiben.
+Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Programmiergerät beschreiben.  
+Da der DSPIC33FJ64GS606-I/PT nur schwer zu bekommen ist gibt es eine Alternative DSPIC33FJ64GS406-I/PT  
+allerdings 
 
 Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
 
