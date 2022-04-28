@@ -14,9 +14,9 @@ Achtung: Der Microchip ist ein PIC und lässt sich nur mit dem entsprechenden Pr
 Da der DSPIC33FJ64GS606-I/PT nur schwer zu bekommen ist gibt es eine Alternative DSPIC33FJ64GS406-I/PT  
 Firmware beachten!!  
 [DSPIC33FJ64GS606-I/PT](/Firmware/SmartSerial_IO_GS606.hex)  
-[DSPIC33FJ64GS406-I/PT](/Firmware/SmartSerial_IO_GS606.hex)  
+[DSPIC33FJ64GS406-I/PT](/Firmware/SmartSerial_IO_GS406.hex)  
   
 Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
 
-![This is an image](https://github.com/Watze85/TWSSIO_V1.0_840C/blob/main/Bilder/1.png)
-![This is an image](https://github.com/Watze85/TWSSIO_V1.0_840C/blob/main/Bilder/2.png)
+![This is an image](/Bilder/1.png)
+![This is an image](/Bilder/2.png)
