@@ -16,7 +16,7 @@ Firmware beachten!!
 [DSPIC33FJ64GS606-I/PT](/Firmware/SmartSerial_IO_GS606.hex)  
 [DSPIC33FJ64GS406-I/PT](/Firmware/SmartSerial_IO_GS406.hex)  
   
-Mit einem PIC-Programmiergerät lässt sich das HEX-File auf den Microchip schreiben.
+Mit einem PICkit 3 lässt sich das HEX-File auf den Microchip schreiben.
 
 ![This is an image](/Bilder/1.png)
 ![This is an image](/Bilder/2.png)
