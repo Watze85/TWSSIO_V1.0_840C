@@ -21,4 +21,4 @@ loadrt siemens_jog count=1
 addf siemens-jog.0  servo-thread
 
  
-Ein Hal Beispiel  findet ihr  in  folgender Datei 
+Ein Hal Beispiel findet ihr in folgender Datei [custom_postgui.hal](/Linuxcnc/custom_postgui.hal)
