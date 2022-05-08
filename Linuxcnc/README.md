@@ -19,3 +19,6 @@ addf siemens-s-poti.0  servo-thread
   
 loadrt siemens_jog count=1  
 addf siemens-jog.0  servo-thread
+
+ 
+Ein Hal Beispiel  findet ihr  in  folgender Datei 
