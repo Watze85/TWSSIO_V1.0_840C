@@ -1,4 +1,4 @@
-# TWSSIO_V1.0_840C
+# TWSSIO_V1.0_840C   &   TWSSIO_V1.1_840C
 
 Adapter Platine um eine Maschinensteuertafel Siemens Sinumerik 840 C  (6FC5103-0AD03-0AA0) über Mesa SmartSerial zu betreiben.  
 Die Platine hat 64 Eingänge, die von den Tastern und Potis verwendet werden  
