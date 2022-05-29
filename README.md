@@ -22,4 +22,4 @@ Firmware beachten!!
 Mit einem PICkit 3 lässt sich das HEX-File auf den Microchip schreiben.
 
 ![This is an image](/Bilder/Sie_1.png)
-![This is an image](/Bilder/V1.1_3.png)
+![This is an image](/Bilder/V1.1_3.jpg)
